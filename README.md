@@ -11,7 +11,7 @@ Welcome to the WhatsApp Chat Analyzer! This web application allows you to upload
 * **Interactive Visualizations:** Explore your chat data through interactive charts and graphs.
 
 ## Demo
-You can check out the live demo of the application [here](https://whatsapp-chat-analyzer-hb.streamlit.app/)
+You can check out the live demo of the application [here](https://whatsapp-chat-analyzer-hb.streamlit.app/) - Refresh the page link if the content is not showing properly.
 
 ## Installation
 To run this project locally, follow these steps:
